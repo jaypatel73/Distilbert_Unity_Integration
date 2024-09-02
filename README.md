@@ -38,3 +38,20 @@ This Unity project integrates the DistilBERT ONNX model using Unity Sentis for q
 
    ```bash
    git clone https://github.com/jaypatel73/Distilbert_Unity_Integration.git
+
+2. **Open in Unity**:
+
+   - Open the cloned project in Unity.
+
+3. **Set Up Sentis**:
+
+   - Ensure Unity Sentis is installed via the Package Manager.
+
+4. **Add Vocabulary File**:
+
+   - Place `vocab.txt` in the `Assets` folder.
+
+5. **Add ONNX Model**:
+
+   - Place your ONNX model (`model-4.onnx`) in the `Assets/Resources` folder.
+
