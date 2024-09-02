@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{32F205BB-1804-0CE8-5259-2AA7F8E18D83}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/BERTSentis.cs">
+    <Files>
+      <File FileName="Assets/BERTSentis.cs" Line="38" Column="1" />
+      <File FileName="Assets/BERTTokenizer.cs" />
+      <File FileName="Assets/TestBERTTokenizer.cs" />
+      <File FileName="Assets/vocab.txt" />
+      <File FileName="Assets/ChatGPTConversation.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="bert-base-uncased2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="BERTSentis.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2ebabc70-ba0c-4668-a0c8-f8754b35eacc" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
